@@ -16,7 +16,7 @@ games to help the company establish their own game.
 
 
 
-To achieve the goal of the project, at the start of the work i used lineplot to repreasent the sales of every region in the last 16 years based on feature called "Year_of_Release".
+To achieve the goal of the project, at the start of the work i used lineplot to represent the sales of every region in the last 16 years based on feature called "Year_of_Release".
 
 the figure shows the Sales of each region as it follows:
 
